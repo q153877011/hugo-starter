@@ -6,7 +6,6 @@
 /assets/jsconfig.json
 hugo_stats.json
 
-# /themes/ananke/*
 # Temporary lock file while building
 /.hugo_build.lock
 
