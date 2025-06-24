@@ -1,12 +1,12 @@
 # Hugo default output directory
 /public/
 /node_modules/
-/themes/
 # Hugo generated resources
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
 
+# /themes/ananke/*
 # Temporary lock file while building
 /.hugo_build.lock
 
